@@ -1,1 +1,1 @@
-# Agricukture-Weeder-Machine
+# Agriculture-Weeder-Machine
